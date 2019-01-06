@@ -1,2 +1,2 @@
 # NLG
-Natural Language Generation Projects and Tips
+Natural Language Generation Sample Projects and Tips
